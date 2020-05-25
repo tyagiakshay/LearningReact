@@ -1,7 +1,7 @@
-import React, {Component} from 'react'
+import React, { Component } from 'react'
 
-class ClsComponent extends Component{
-    render(){
+class ClsComponent extends Component {
+    render() {
         return <h2>This is a class component.</h2>
     }
 }
